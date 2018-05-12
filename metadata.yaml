@@ -1,0 +1,38 @@
+_repo: What-s-He-Doing-in-There-_29504
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bowman
+    gutenberg_agent_id: '46604'
+    url: http://www.gutenberg.org/2009/agents/46604
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leiber, Fritz
+    alias: Leiber, Fritz Reuter
+    birthdate: 1910
+    deathdate: 1992
+    gutenberg_agent_id: '25421'
+    url: http://www.gutenberg.org/2009/agents/25421
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
+description: He went where no Martians ever went before, but would he come out, or
+  had he gone for good?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: What's He Doing in There?
+url: http://www.gutenberg.org/ebooks/29504
